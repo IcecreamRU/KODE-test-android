@@ -1,4 +1,4 @@
-package com.icecreamok.kode.ui.theme
+package com.icecreamok.kode.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
