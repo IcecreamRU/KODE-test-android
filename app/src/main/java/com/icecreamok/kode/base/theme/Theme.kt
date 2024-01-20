@@ -1,4 +1,4 @@
-package com.icecreamok.kode.presentation.theme
+package com.icecreamok.kode.base.theme
 
 import android.app.Activity
 import android.os.Build

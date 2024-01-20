@@ -1,4 +1,4 @@
-package com.icecreamok.kode.presentation.ui
+package com.icecreamok.kode.presentation.compose
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,8 +10,8 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.icecreamok.kode.presentation.theme.KODETheme
-import com.icecreamok.kode.presentation.theme.Typography
+import com.icecreamok.kode.base.theme.KODETheme
+import com.icecreamok.kode.base.theme.Typography
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

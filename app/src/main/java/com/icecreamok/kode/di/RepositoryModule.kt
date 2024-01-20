@@ -1,8 +1,8 @@
 package com.icecreamok.kode.di
 
 import com.icecreamok.kode.data.api.ApiService
-import com.icecreamok.kode.data.repository.UsersRepository
 import com.icecreamok.kode.data.repository.UsersRepositoryImpl
+import com.icecreamok.kode.domain.UsersRepository
 import dagger.Module
 import dagger.Provides
 
